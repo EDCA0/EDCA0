@@ -1,11 +1,11 @@
 ### Hi there 👋
+![Header](./github-header-image.png)
 
 ![built](https://forthebadge.com/images/badges/built-with-love.svg)
 
 [![GitHub followers](https://img.shields.io/badge/EDCA0-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EDCA0?tab=followers)
 [![outlook](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto://eric.cavanzo@outlook.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Eric.Daniel.C.A/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e.d.c.a_/)
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=EDCA0&show_icons=true&theme=midnight-purple&card_width=200&?count_private=true&locale=es)
