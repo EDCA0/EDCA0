@@ -4,8 +4,7 @@
 ![built](https://forthebadge.com/images/badges/built-with-love.svg)
 
 [![GitHub followers](https://img.shields.io/badge/EDCA0-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EDCA0?tab=followers)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)(mailto://eric.cavanzo@outlook.com)
-
+[![outlook](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto://eric.cavanzo@outlook.com)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=EDCA0&show_icons=true&theme=midnight-purple&card_width=200&?count_private=true&locale=es)
